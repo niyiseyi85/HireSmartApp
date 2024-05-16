@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/HireSmartApp/v17
+/HireSmartApp/bin/Debug/net8.0
+/HireSmartApp/obj
+/HireSmartApp.Core/bin/Debug/net8.0
+/HireSmartApp.Core/obj
+/HireSmartApp.UnitTest/bin/Debug/net8.0
+/HireSmartApp.UnitTest/obj
+/HireSmartApp/Swagger.XML/Debug/net8.0/bin/Debug/net8.0
+/HireSmartApp/Swagger.XML/Debug/net8.0
